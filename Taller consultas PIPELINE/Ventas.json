@@ -1,0 +1,58 @@
+    [
+    {
+        "usuarioId": "U001",
+        "productos": [
+        {
+            "productoId": "P001",
+            "nombre": "Laptop Lenovo",
+            "cantidad": 1,
+            "precio": 3200000,
+            "categoría": "tecnología"
+        },
+        {
+            "productoId": "P003",
+            "nombre": "Libro de MongoDB",
+            "cantidad": 2,
+            "precio": 85000,
+            "categoría": "educación"
+        }
+        ],
+        "fecha": "2025-09-15",
+        "estado": "pagado"
+    },
+    {
+        "usuarioId": "U002",
+        "productos": [
+        {
+            "productoId": "P002",
+            "nombre": "Audífonos Bluetooth",
+            "cantidad": 1,
+            "precio": 120000,
+            "categoría": "tecnología"
+        }
+        ],
+        "fecha": "2025-09-20",
+        "estado": "pendiente"
+    },
+    {
+        "usuarioId": "U003",
+        "productos": [
+        {
+            "productoId": "P003",
+            "nombre": "Libro de MongoDB",
+            "cantidad": 1,
+            "precio": 85000,
+            "categoría": "educación"
+        },
+        {
+            "productoId": "P002",
+            "nombre": "Audífonos Bluetooth",
+            "cantidad": 2,
+            "precio": 120000,
+            "categoría": "tecnología"
+        }
+        ],
+        "fecha": "2025-09-25",
+        "estado": "pagado"
+    }
+    ]

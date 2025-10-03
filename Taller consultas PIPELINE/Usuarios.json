@@ -1,0 +1,20 @@
+    [
+    {
+        "usuarioId": "U001",
+        "nombre": "Laura Gómez",
+        "correo": "laura@example.com",
+        "ciudad": "Bogotá"
+    },
+    {
+        "usuarioId": "U002",
+        "nombre": "Mateo Rodríguez",
+        "correo": "mateo@example.com",
+        "ciudad": "Medellín"
+    },
+    {
+        "usuarioId": "U003",
+        "nombre": "Sofía Martínez",
+        "correo": "sofia@example.com",
+        "ciudad": "Cali"
+    }
+    ]

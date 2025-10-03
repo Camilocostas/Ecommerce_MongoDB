@@ -1,0 +1,20 @@
+    [
+    {
+        "productoId": "P001",
+        "nombre": "Laptop Lenovo",
+        "categoría": "tecnología",
+        "precio": 3200000
+    },
+    {
+        "productoId": "P002",
+        "nombre": "Audífonos Bluetooth",
+        "categoría": "tecnología",
+        "precio": 120000
+    },
+    {
+        "productoId": "P003",
+        "nombre": "Libro de MongoDB",
+        "categoría": "educación",
+        "precio": 85000
+    }
+    ]
